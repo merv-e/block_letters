@@ -18,4 +18,9 @@ print(first_initial + "   " + first_initial )
 # for almost more than 2 years.
 
 # TODO: Do the same with other initials.
+'''
+Check these examples: 
 
+https://github.com/Codecademy/learn-python/blob/main/1-hello-world/block-letters/snowman.py 
+https://github.com/Codecademy/learn-python/blob/main/1-hello-world/block-letters/initials.py
+'''

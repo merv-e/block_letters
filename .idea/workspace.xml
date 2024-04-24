@@ -83,12 +83,32 @@
       <option name="project" value="LOCAL" />
       <updated>1713962658792</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initials of my name is created, as described (hopefully) in the exercise.">
+      <option name="closed" value="true" />
+      <created>1713963636467</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713963636467</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="the very first file is created." />
-    <option name="LAST_COMMIT_MESSAGE" value="the very first file is created." />
+    <MESSAGE value="initials of my name is created, as described (hopefully) in the exercise." />
+    <option name="LAST_COMMIT_MESSAGE" value="initials of my name is created, as described (hopefully) in the exercise." />
   </component>
 </project>
